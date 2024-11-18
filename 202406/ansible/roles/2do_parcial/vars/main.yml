@@ -1,0 +1,9 @@
+# vars file for 2do_parcial
+Nombre: Ulises Martin
+Apellido: Fernandez
+Division: 311
+IP: 10.0.2.15
+Distribucion: 	Ubuntu 24.04 LTS
+Cores: 1
+Ruta_A: /home/osboxes/UTN-FRA_SO_Examenes/202406/ansible/tmp/2do_parcial/alumno/datos_alumno.txt
+Ruta_E: /home/osboxes/UTN-FRA_SO_Examenes/202406/ansible/tmp/2do_parcial/equipo/datos_equipo.txt
